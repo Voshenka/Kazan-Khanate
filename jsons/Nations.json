@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Kazan Khanate",
+    "leaderName": "Ulu-Mohammed",
+    "adjective": ["Tatars"],
+    "startBias": ["Plains"],
+    "preferredVictoryType": "Scientific",
+
+    "startIntroPart1": "Приветствую вас, хан Улу-Мухаммед! Вы - глава трудолюбивого татарского народа. Ваша молодая нация родилась благодрая развалу Золотой Орды. Не смотря на это, татарский народ представляет силу, как в культуре, так и в силе духа. Татары - венцы творения и добра. Именно ваш народ несет самые гуманные и пацифические идеи. Для укрепления всех качеств не хватает только сильного лидера, который их приведет к мечте",
+
+    "declaringWar": "Вы будете уничтожены.",
+    "attacked": "Вы за это поплатитесь!",
+    "defeated": "Это еще не конец!",
+    "intoduction": "Здравствуйте!",
+    "neutralHello": "Привет.",
+    "hateHello": "Здрасте.",
+    "tradeReguest": "Мы сможем договориться?",
+
+    "outerColor": [255,204,0],
+    "innerColor": [255,255,255],
+
+    "favoredReligion": "Christianity",
+
+    "uniqueName": "Great Steppes",
+    "uniques": ["[1] free [Great Merchant] units appear when discovering [Currency]"],
+
+    "cities": ["Казань","Набережные Челны","Нижнекамск","Альметьевск","Зеленодольск","Бугульма","Елабуга"]
+  }
+]

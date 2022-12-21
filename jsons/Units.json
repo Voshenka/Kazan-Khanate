@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Elite cavalry",
+    "unitType": "Mounted",
+    "uniqueTo": "Kazan Khanate",
+    "replaces": "Knight",
+    "cost": 120,
+    "movement": 5,
+    "strength": 22,
+    "reguiredTech": "Chivalry",
+    "obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+  }
+]

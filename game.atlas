@@ -1,0 +1,34 @@
+
+game.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Kazan Mosgue
+  rotate: false
+  xy: 948, 4
+  size: 464, 469
+  orig: 464, 469
+  offset: 0, 0
+  index: -1
+NationIcons/Kazan
+  rotate: false
+  xy: 476, 4
+  size: 464, 469
+  orig: 464, 469
+  offset: 0, 0
+  index: -1
+NationIcons/Kazan Khanate
+  rotate: false
+  xy: 476, 4
+  size: 464, 469
+  orig: 464, 469
+  offset: 0, 0
+  index: -1
+UnitIcons/Elite cavalry
+  rotate: false
+  xy: 4, 4
+  size: 464, 469
+  orig: 464, 469
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Kazan Mosgue",
+    "uniqueTo": "Kazan Khanate",
+    "cost": 250,
+    "production": 2,
+    "gold": 2,
+    "science": 1,
+    "reguiredTech" :"Theocracy",
+    "uniques": ["[+1 Faith] per [2] population [in this city]"]
+  }
+]
