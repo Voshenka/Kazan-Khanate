@@ -7,26 +7,11 @@
     "cost": 120,
     "movement": 5,
     "strength": 22,
-    "requiredTech": "Chivalry",
+    "reguiredTech": "Chivalry",
     "obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-22]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
-  },
-
-  {
-    "name": "Onager",
-    "unitType": "Mounted",
-    "uniqueTo": "Kazan Khanate",
-    "replaces": "Trebuchet",
-    "cost": 100,
-    "movement": 3,
-    "strength": 15,
-    "requiredTech": "Physics",
-    "obsoleteTech": "Catapult",
-		"upgradesTo": "Onager",
-  "uniques": ["Must set up to ranged attack","No defensive terrain bonus","[+333]% Strength <vs cities> <when attacking>","[-1] sight", "Never appears as a Barbarian unit"],
-  "attackSound":"metalhit"
-}
+  }
 ]
