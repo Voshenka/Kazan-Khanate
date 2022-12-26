@@ -7,7 +7,7 @@
     "cost": 120,
     "movement": 5,
     "strength": 22,
-    "reguiredTech": "Chivalry",
+    "requiredTech": "Chivalry",
     "obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
